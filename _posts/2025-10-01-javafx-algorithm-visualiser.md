@@ -16,6 +16,17 @@ tags:
 - visualisation
 ---
 
+
+## Repository
+
+For running this project and documentation, visit the GitHub repo: [javafx-algorithm-visualiser](https://github.com/jbrowne7/javafx-algorithm-visualiser){:target="_blank"}
+
+## Demo Video
+
+{% include embed/youtube.html id='5Gv4n_MWxY8' %}
+
+*If the embedded video doesn't load, you can watch the demo directly on [YouTube](https://www.youtube.com/watch?v=5Gv4n_MWxY8){:target="_blank"}*
+
 ## Overview
 
 An interactive graph algorithm visualiser to help users better understand how algorithms work. At the time of writing this the repo currently only supports Dijkstras algorithm but I plan on extending this to other graph based algorithms.

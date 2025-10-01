@@ -4,5 +4,10 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Computer Science student interested in building backend systems, cloud technologiese, and DevOps. I enjoy solving technical challenges and creating scalable solutions.
+
+- **Backend Development** - Building RESTful APIs and microservices
+- **Cloud Infrastructure** - AWS deployment and architecture design
+- **Database Design** - Relational database modeling and optimization
+- **DevOps** - CI/CD pipelines and containerisatios
+

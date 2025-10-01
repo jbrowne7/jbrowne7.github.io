@@ -16,7 +16,13 @@ tags:
 
 ## Repository
 
-For running this project and documentation, visit the GitHub repo: [fastapi-document-storage-service](https://github.com/jbrowne7/fastapi-document-storage-service)
+For running this project and documentation, visit the GitHub repo: [fastapi-document-storage-service](https://github.com/jbrowne7/fastapi-document-storage-service){:target="_blank"}
+
+## Demo Video
+
+{% include embed/youtube.html id='dIpiw3SSGp4' %}
+
+*If the embedded video doesn't load, you can watch the demo directly on [YouTube](https://www.youtube.com/watch?v=dIpiw3SSGp4){:target="_blank"}*
 
 ## Overview
 A FastAPI service for per-user document storage with JWT authentication, S3-compatible storage, and AWS cloud deployment. Users can register, authenticate, and manage their documents through a RESTful API with presigned URLs for secure file access.

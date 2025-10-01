@@ -16,7 +16,15 @@ tags:
 
 ## Repository
 
-For running this project and documentation, visit the GitHub repo: [client-portfolio-management-db](https://github.com/jbrowne7/client-portfolio-risk-management-DB?tab=readme-ov-file#overview)
+For running this project and documentation, visit the GitHub repo: [client-portfolio-management-db](https://github.com/jbrowne7/client-portfolio-risk-management-DB?tab=readme-ov-file#overview){:target="_blank"}
+
+## Demo Video
+
+{% include embed/youtube.html id='3JMCl4MWYPk' %}
+
+*If the embedded video doesn't load, you can watch the demo directly on [YouTube](https://www.youtube.com/watch?v=3JMCl4MWYPk){:target="_blank"}*
+
+
 
 
 ## Overview
