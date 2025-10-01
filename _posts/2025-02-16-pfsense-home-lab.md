@@ -2,7 +2,7 @@
 title: "Virtual Firewall Deployment with pfSense Home Lab"
 date: 2025-02-16
 media_subpath: /assets/posts/2025-02-16-pfsense-home-lab
-published: true
+published: false
 layout: post
 categories:
 - home lab

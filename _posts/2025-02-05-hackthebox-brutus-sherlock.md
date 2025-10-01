@@ -2,7 +2,7 @@
 title: "Hackthebox Brutus Sherlock"
 date: 2025-02-05
 media_subpath: /assets/posts/2025-02-05-hackthebox-brutus-sherlock
-published: true
+published: false
 layout: post
 categories:
 - ctf

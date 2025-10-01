@@ -10,7 +10,7 @@ tags:
 - hackthebox
 - file inclusion
 - red team
-published: true
+published: false
 layout: post
 ---
 

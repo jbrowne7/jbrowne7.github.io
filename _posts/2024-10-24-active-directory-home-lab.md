@@ -2,7 +2,7 @@
 title: "Active Directory Home Lab"
 date: 2024-10-24
 media_subpath: /assets/posts/2024-10-24-active-directory-home-lab
-published: true
+published: false
 layout: post
 categories:
 - home lab

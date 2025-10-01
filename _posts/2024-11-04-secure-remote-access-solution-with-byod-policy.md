@@ -2,7 +2,7 @@
 title: "Secure Remote Access Solution with BYOD Policy"
 date: 2024-11-04
 media_subpath: /assets/posts/2024-11-04-secure-remote-access-solution-with-byod-policy
-published: true
+published: false
 layout: post
 categories:
 - home lab

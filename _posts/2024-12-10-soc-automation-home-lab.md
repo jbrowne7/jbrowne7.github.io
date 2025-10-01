@@ -2,7 +2,7 @@
 title: "SOC Automation Home Lab"
 date: 2024-12-10
 media_subpath: /assets/posts/2024-12-10-soc-automation-home-lab
-published: true
+published: false
 layout: post
 categories:
 - home lab

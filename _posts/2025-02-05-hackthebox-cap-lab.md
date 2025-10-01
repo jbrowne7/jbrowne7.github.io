@@ -12,7 +12,7 @@ tags:
 - file inclusion
 - linux capabilities
 - red team
-published: true
+published: false
 layout: post
 ---
 
